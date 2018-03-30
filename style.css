@@ -1,0 +1,28 @@
+body{
+	background-image:url(http://mv-1251266784.file.myqcloud.com/b.jpg);
+	width:100%;
+	height:100%;
+	background-size:100% ;
+	padding: 0;
+	margin:0;
+
+}
+.div1{
+	
+	width:270px;
+    height:150px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin:-75px 0 0 -135px;
+	font-family: SimSun;
+}
+.div2{
+	
+	width:270px;
+    height:150px;
+    position:absolute;
+    left:49%;
+    top:40%;
+    margin:-75px 0 0 -135px;
+}
